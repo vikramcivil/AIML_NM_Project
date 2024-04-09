@@ -39,19 +39,13 @@ The project consists of the following main components:
    ```bash
    cd credit-card-fraud-detection
 
-
-4. Install the required dependencies:
- 
-  ```bash
-  pip install -r requirements.txt
-
-4. Download the .csv file the link
+3. Download the .csv file the link
 
    ```bash
    https://drive.google.com/file/d/1w5qell5guFIFs3jop63GFi24nPjUnf-z/view
 
-5. Run the main script to execute the project:
-
+4. Run the main script to execute the project:
+ 
   ```bash
   python main.py
 
