@@ -35,19 +35,23 @@ The project consists of the following main components:
    git clone https://github.com/your_username/credit-card-fraud-detection.git
    
 2. Navigate to the project directory:
+  
   ```bash
   cd credit-card-fraud-detection
 
 
 3. Install the required dependencies:
+ 
   ```bash
   pip install -r requirements.txt
 
 4. Download the .csv file the link
-   ```bash
+
+```bash
    https://drive.google.com/file/d/1w5qell5guFIFs3jop63GFi24nPjUnf-z/view
 
 5. Run the main script to execute the project:
+
   ```bash
   python main.py
 
