@@ -45,6 +45,6 @@ The project consists of the following main components:
    https://drive.google.com/file/d/1w5qell5guFIFs3jop63GFi24nPjUnf-z/view
 
 4. Run the main script to execute the project:
- 
-  ```bash
-  python main.py
+
+   ```bash
+   python main.py
