@@ -2,7 +2,7 @@
 This repo is aimed created for submitting the Naan Mudhalvan Project
 # Credit Card Fraud Detection
 
-![Credit Card Fraud Detection](https://images.unsplash.com/photo-1568962987615-7c7c303b042f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![Credit Card Fraud Detection](https://images.unsplash.com/photo-1571715268998-d6e79bed5fc9?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## Overview
 
@@ -48,8 +48,3 @@ The project consists of the following main components:
  
   ```bash
   python main.py
-
-## Future Enhancements
-  Implementing more advanced machine learning algorithms.
-  Incorporating real-time data for model updates.
-  Building a web application for easy access and usage.
