@@ -34,13 +34,16 @@ The project consists of the following main components:
    ```bash
    git clone https://github.com/your_username/credit-card-fraud-detection.git
 Navigate to the project directory:
+  ```bash
   cd credit-card-fraud-detection
 Install the required dependencies:
+  ```bash
   pip install -r requirements.txt
 Run the main script to execute the project:
+  ```bash
   python main.py
 
-Future Enhancements
+## Future Enhancements
   Implementing more advanced machine learning algorithms.
   Incorporating real-time data for model updates.
   Building a web application for easy access and usage.
