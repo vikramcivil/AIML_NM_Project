@@ -26,6 +26,7 @@ The project consists of the following main components:
 - scikit-learn
 - matplotlib
 - seaborn
+- sklearn
 
 ## Usage
 
