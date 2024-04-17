@@ -32,12 +32,12 @@ The project consists of the following main components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/credit-card-fraud-detection.git
+   git clone https://github.com/vikramcivil/AIML_NM_Project.git
    
 2. Navigate to the project directory:
 
    ```bash
-   cd credit-card-fraud-detection
+   cd AIML_NM_Project
 
 3. Download the .csv file the link
 
