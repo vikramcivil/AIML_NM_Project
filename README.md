@@ -47,4 +47,4 @@ The project consists of the following main components:
 4. Run the main script to execute the project:
 
    ```bash
-   python main.py
+   main.ipynb
